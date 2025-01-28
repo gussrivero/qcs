@@ -1,0 +1,20 @@
+[
+   {
+    "name": "testLint",
+    "regex": ".*\\btest\\b.*",
+    "description": "Don't use test",
+    "explanation": "Don't use test",
+    "severity": 1,
+    "owner": "Squad 1",
+    "contact": "platform-updates@mail.com"
+  },
+  {
+   "name": "lintLint",
+   "regex": ".*\\blint\\b.*",
+   "description": "Don't use lint",
+   "explanation": "Don't use lint",
+   "severity": 2,
+   "owner": "Squad 2",
+   "contact": "everest@mail.com"
+  }
+]
