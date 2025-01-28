@@ -16,5 +16,14 @@
    "severity": 2,
    "owner": "Squad 2",
    "contact": "everest@mail.com"
+  },
+  {
+   "name": "printlnLint",
+   "regex": ".*\\bprintln\\b.*",
+   "description": "Don't use println",
+   "explanation": "Don't use println",
+   "severity": 2,
+   "owner": "Squad 2",
+   "contact": "everest@mail.com"
   }
 ]
